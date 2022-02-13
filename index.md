@@ -1,30 +1,21 @@
 
-### Anahita Taheri
+### Ali Parvizy
 
 
 ### Personal informations
 
 ---
-+ name: Anahita
-+ last name : Taheri
-+ Date of birth : 1979/November/29
-+ I am a trader and IT engineering student
-+ location : Tehran , I.R.Iran
++ name: Ali
++ last name : Parvizy
++ Date of birth : 2007/April/21
++ I am a high-school student 
++ location : Fars , I.R.Iran
 
 
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
-+ translating
-
-
-### Education
-
----
-+ Diploma : Aeen Tarbiat high school
-+ Bachelor of science : IT Engineering
-_ payam Noor University of North 
++ I've started learning front-end programming. 
 
 ### language
 
@@ -36,14 +27,14 @@ _ payam Noor University of North
 
 ---
 + Trade
-+ Studing historical books
-+ travel 
++ Studing programming
++ playing video-games
 + playing volleyball
 
 ### working Experience
 
 ---
-+ I am working in Caltural,Turism & Handicrafts Minister.
++ I am not working. 
 
 
 
